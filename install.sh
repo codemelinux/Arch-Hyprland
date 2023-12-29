@@ -191,7 +191,7 @@ fi
 
 if [ "$dots" == "Y" ]; then
     
-    cd Downloads
+    cd ~/Downloads/
     git clone https://github.com/codemelinux/Hyprland-Dots.git
 fi
 
